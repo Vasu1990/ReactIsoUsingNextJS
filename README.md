@@ -1,0 +1,2 @@
+# ReactIsoUsingNextJS
+npm run dev
